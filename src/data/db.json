@@ -1,0 +1,19 @@
+{
+    "frutas": [
+      {
+        "id": 3,
+        "name": "Uva",
+        "price": 5
+      },
+      {
+        "name": "Melancia",
+        "price": "19.90",
+        "id": 5
+      },
+      {
+        "name": "Banana",
+        "price": "10.90",
+        "id": 6
+      }
+    ]
+  }
